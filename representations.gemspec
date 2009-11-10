@@ -28,6 +28,7 @@ Resource representations change syntax to object oriented and model specific.}
      "lib/active_record_representation.rb",
      "lib/associations_representation.rb",
      "lib/controller_helpers.rb",
+     "lib/date_representation.rb",
      "lib/default_representation.rb",
      "lib/nil_class_representation.rb",
      "lib/representation.rb",
